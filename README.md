@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbdAl-Aziz</h1>
 <img align="right" alt="Coding" width="100%" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
-<h3 align="center">I am Ahmed Abdel Aziz, a dedicated Computer Science student with a strong background in backend development using Laravel. I have a keen interest in database management and have gained valuable experience in penetration testing. My goal is to continually enhance my skills and contribute to innovative projects that prioritize security and efficiency.</h3>
+<h3 align="center">A dedicated Computer Science student with a strong passion for cybersecurity and backend development.
+With a solid foundation in network security and vulnerability analysis, specializing in penetration testing with the ability to identify, assess, and mitigate security threats effectively. Hands-on experience in cyber operations, working with tools like Sguil and Kibana to monitor and analyze security incidents.
+Beyond cybersecurity, experienced in backend development, particularly in Laravel (PHP) and SQL, focusing on building scalable, secure, and efficient applications.
+Committed to continuous learning and staying at the forefront of emerging technologies and best practices in both cybersecurity and software development.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdal-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdal-aziz" /> </p>
 
