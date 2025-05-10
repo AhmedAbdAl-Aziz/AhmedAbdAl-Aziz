@@ -7,9 +7,6 @@ Committed to continuous learning and staying at the forefront of emerging techno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdal-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdal-aziz" /> </p>
 
-- 🔭 I’m currently working on **Agricultural-Decision-Making**
-
-- 🌱 I’m currently learning **penetration testing.**
 
 - 📫 How to reach me **Ahmed.m.mo.abdelaziz@gmail.com**
 
