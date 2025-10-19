@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbdAl-Aziz</h1>
-<img align="right" alt="Coding" width="100%" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
+
 <h3 align="center">A dedicated Computer Science student with a strong passion for cybersecurity and backend development.
 With a solid foundation in network security and vulnerability analysis, specializing in penetration testing with the ability to identify, assess, and mitigate security threats effectively. Hands-on experience in cyber operations, working with tools like Sguil and Kibana to monitor and analyze security incidents.
 Beyond cybersecurity, experienced in backend development, particularly in Laravel (PHP) and SQL, focusing on building scalable, secure, and efficient applications.
