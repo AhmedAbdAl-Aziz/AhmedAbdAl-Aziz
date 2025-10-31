@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed AbdAl-Aziz</h1>
-<h3 align="center">A dedicated Computer Science student with a strong passion for cybersecurity and backend development. With a solid foundation in network security and vulnerability analysis, specializing in penetration testing with the ability to identify, assess, and mitigate security threats effectively. Hands-on experience in cyber operations, working with tools like Sguil and Kibana to monitor and analyze security incidents. Beyond cybersecurity, experienced in backend development, particularly in Laravel (PHP) and SQL, focusing on building scalable, secure, and efficient applications. Committed to continuous learning and staying at the forefront of emerging technologies and best practices in both cybersecurity and software development.</h3>
+<h1 align="center">Hello👋, I'm Ahmed AbdAl-Aziz</h1>
+<h3 align="center">
+I specialize in penetration testing, bug bounty Bug Hunter and CTF Player, with a strong foundation in network security and vulnerability analysis.
+Also skilled in Laravel (PHP) and SQL, building secure and scalable applications while continuously learning and improving. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdal-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdal-aziz" /> </p>
 
