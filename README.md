@@ -1,10 +1,30 @@
-<h1 align="center">Hello👋, I'm Ahmed AbdAl-Aziz</h1>
+<h1 align="center">Hello, I'm Ahmed AbdAl-Aziz 👋</h1>
+<h3 align="center">Penetration Tester & Bug Bounty Hunter </h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAbdAl-Aziz&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedAbdAl-Aziz" />
+</p>
 
-<h3 align="left">I specialize in penetration testing, bug bounty Bug Hunter and CTF Player, with a strong foundation in network security and vulnerability analysis. Also skilled in Laravel (PHP) and SQL, building secure and scalable applications while continuously learning and improving👾.</h3>
+---
 
-###
+### About Me: 
+<h4 align="left">I specialize in penetration testing, bug bounty Bug Hunter and CTF Player, with a strong foundation in network security and vulnerability analysis. Also skilled in Laravel (PHP) and SQL, building secure and scalable applications while continuously learning and improving👾.</h4>
+
+---
+
+###  Connect & Contact
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed--abdal-azizz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="ahmed.m.mo.abdelaziz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
+  </a>
+</div>
+
+---
+
+###  Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
@@ -20,23 +40,35 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed--abdal-azizz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ahmed.m.mo.abdelaziz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbdAl-Aziz&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7" />
+</p>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+---
 
-###
+###  GitHub Stats & Activity
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdAl-Aziz&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdAl-Aziz&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
